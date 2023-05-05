@@ -1,6 +1,6 @@
 # fr24-mil-tracker
 
-command line scraper for flight radar 24 with a bunch of airforces fed into it. 
+command line scraper for flight radar 24 with a bunch of icoas fed into it. 
 
 If throws an error, just run it again
 
