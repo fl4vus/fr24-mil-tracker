@@ -1,4 +1,4 @@
-# fr24-military-tracker
+# fr24-mil-tracker
 
 command line scraper for flight radar 24 with a bunch of airforces fed into it. 
 
